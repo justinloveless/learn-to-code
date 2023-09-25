@@ -44,6 +44,11 @@ Full curriculum coding course
   - [ ] Dependency Inversion
 - [ ] Data
   - [ ] SQL
+    - [ ] Normalization
+    - [ ] Stored Procedures
+    - [ ] Joins
+    - [ ] Filtering and Sorting
+    - [ ] Execution Plans
   - [ ] NoSql (MongoDb)
 - [ ] Docker
   - [ ] Images
